@@ -49,13 +49,13 @@ public static boolean updateEquiments(String oldName,String newName){
 		boolean isDeleteGymEquipment=false;
 		int oldIndex,newIndex;
 		for(oldIndex=0,newIndex=0; oldIndex<equimentName.length; oldIndex++)
-		{
+		
 			if(deleteEquip!=equimentName[oldIndex] ){
 			equimentName[newIndex]=equimentName[oldIndex];
             newIndex++;		
 			}	
 		}
-		equimentName=Arrays.copyOf(equimentName,newIndex);
+		equimenjtName=Arrays.copyOf(equimentName,newIndex);
 		if(equimentName != null)
 			isDeleteGymEquipment=true;
 		if(isDeleteGymEquipment==false){

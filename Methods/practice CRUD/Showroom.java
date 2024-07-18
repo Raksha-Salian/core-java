@@ -38,6 +38,8 @@ public static boolean updateCarList(String oldCar , String newCar){
 		}
 	} return isUpdated;
 }	
+
+public static boolean deleteCarList()
 	
 	
 	

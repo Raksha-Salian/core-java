@@ -47,6 +47,20 @@ if( isUpdateIceCreamName=false){
 	return isUpdateIceCreamName;
 
 }
+public static boolean deleteIceCreamName(String nameToBeDeleted){
+	System.out.println("the ice cream name to be deleted");
+	isDeletedIceCream = false;
+	int newIndex , int oldIndex;
+	for(oldIndex=0 , newIndex=0; oldIndex< chatNames.length; oldIndex++){
+		if()
+		
+		
+		
+		
+		
+		
+	}
+}
 	
 	
 	
