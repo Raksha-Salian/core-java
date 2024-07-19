@@ -1,7 +1,7 @@
 class Shampoo{
 
 	String brandName;
-	int id;
+	int    id;
 	String quantity;
 	String type;
 	double price;
