@@ -1,0 +1,16 @@
+1) polymorphism:- the objects having different forms  
+it has 2 types:
+-> Runtime polymorphism and compile time polymorphism
+Runtime polymorphism:- the call to method at runtime is called runtime
+polymorphism.
+Compile time polymorphism:- the call to the method at compile time is called 
+compile time polymorphism.
+
+4)Encapsulation:- the process of grouping of data into a single block of code 
+is called as encapsulation.
+
+3)Inheritance:- the process extending the method from parent class
+to the child class is called as inheritance.
+-> this is done using extends keyword.
+-> the code can be reused here.
+
