@@ -23,7 +23,7 @@ class SunGlasses{
 		 
 		   public void displayInfo(){
 			   
-			   System.out.println("The Brand Name Is = " + this.name);
+			   System.out.println("The Brand Name Is = " +name);
 			   System.out.println("The Brand Id Is = "+ this.id);				
 			   System.out.println("The Brand Type Is = " + this.type );
 			   System.out.println("The Brand Price Is = " +this.price);
